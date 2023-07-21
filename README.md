@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
