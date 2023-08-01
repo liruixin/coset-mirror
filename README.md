@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
