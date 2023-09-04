@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
