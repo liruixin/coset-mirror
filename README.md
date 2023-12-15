@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Avoid creating -hub dir without processing images (#8334)
