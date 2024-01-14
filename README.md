@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
