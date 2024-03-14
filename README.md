@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+ultralytics 8.0.228 add training time argument (#7054)
