@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
