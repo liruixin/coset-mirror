@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+fix yolo classify model loading error (#9196)
